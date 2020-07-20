@@ -9,7 +9,7 @@ we prefer to introduce it as a material for learning ***ROS***.(http://www.ros.o
 It can run on both hardware raspberry pi3, pi2 with *ubuntuMATE* and *ROS Kinetic*.
 
 for more information and tutorials, please visit :
-http://www.duckietown-bunny.com/
+https://schwarmcyc.wixsite.com/duckietown-bunny
 
 ###special thanks to https://hackmd.io/p/SJbHPc-p#/5
 
